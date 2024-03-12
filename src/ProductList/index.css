@@ -1,0 +1,42 @@
+
+.container {
+    
+    background-color: #3a4b63;
+    padding:20px;
+
+  }
+  
+  
+  .heading {
+    color: #f8fafc;
+    font-family: 'Roboto';
+    font-size: 32px;
+    font-weight: bold;
+    
+    margin: 10px;
+    
+    text-align: center;
+  }
+  
+  .products-list {
+    display: flex;
+    flex-direction: row;
+  }
+  .product-image{
+    width:200px;
+    height:200px;
+    border-radius: 20px;
+    margin-top:20px;
+  }
+  .product-price{
+    font-size:20px;
+    color:orange;
+    
+  }
+  .product-title{
+    font-size:15px;
+    margin-bottom:30px;
+  }
+  .content{
+    border-color:10px solid violet;
+  }

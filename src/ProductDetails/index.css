@@ -1,0 +1,39 @@
+.heading{
+    color:white;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: left;
+    margin:20px;
+}
+.description{
+    font-size: 20px ;
+    color:white;
+    font-family: "Roboto";
+
+}
+.image{
+    width:400px;
+    height:400px;
+    border-radius: 30px;
+    margin:20px;
+}
+.price{
+    font-size: 15px;
+    font-weight: bold;
+    background-color:green;
+    width:150px;
+    padding:10px;
+    border-radius: 10px;
+    color:white
+
+}
+.category{
+    font-size: 20px;
+    font-family: "Roboto";
+    color:white;
+}
+.style-text{
+font-weight: bold;
+color:white;
+font-size:25px;
+}
